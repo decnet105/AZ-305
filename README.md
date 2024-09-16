@@ -10,3 +10,4 @@
 * [Azure subscription and service limits, quotas, and constraints](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits)
 * [AZ-305 Github resources, case studies](https://github.com/MicrosoftLearning/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions)
 * [AZ-305 Labs](https://github.com/matt-writes-code/Azure_AZ305/tree/main/mod01-Azure-Governance)
+* [Design a solution to log and monitor Azure resources](https://learn.microsoft.com/en-us/training/modules/design-solution-to-log-monitor-azure-resources/1-introduction)
