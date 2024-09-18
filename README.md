@@ -18,6 +18,7 @@
 * [Secure your Azure SQL database](https://docs.microsoft.com/learn/modules/secure-your-azure-sql-database/)
 * [Scale multiple Azure SQL Databases with SQL elastic pools](https://docs.microsoft.com/learn/modules/scale-sql-databases-elastic-pools/)
 * [Configure database authentication and authorization](https://docs.microsoft.com/learn/modules/configure-database-authentication-authorization/)
+* [AZ-700 Designing and Implementing Microsoft Azure Networking Solutions(]https://learn.microsoft.com/en-us/training/paths/design-implement-microsoft-azure-networking-solutions-az-700/)
 
 
 ![image](https://github.com/user-attachments/assets/59c5dc83-4a3b-4259-95da-02d289178f3f)
